@@ -247,6 +247,5 @@ if (ptr == NULL)
   exit(-1);
 } 
 else
-  printf("Memory allocated successfully.\n");
+  printf("Memory allocated successfully.\n")
 ```
-
